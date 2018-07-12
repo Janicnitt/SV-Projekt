@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS-Projekt", "VS-Proj\VS-Projekt.csproj", "{C796ABC8-60B1-4E90-99F3-F9942A4F2AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C796ABC8-60B1-4E90-99F3-F9942A4F2AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C796ABC8-60B1-4E90-99F3-F9942A4F2AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C796ABC8-60B1-4E90-99F3-F9942A4F2AFA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C796ABC8-60B1-4E90-99F3-F9942A4F2AFA}.Debug|x64.Build.0 = Debug|Any CPU
+		{C796ABC8-60B1-4E90-99F3-F9942A4F2AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C796ABC8-60B1-4E90-99F3-F9942A4F2AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C796ABC8-60B1-4E90-99F3-F9942A4F2AFA}.Release|x64.ActiveCfg = Release|Any CPU
+		{C796ABC8-60B1-4E90-99F3-F9942A4F2AFA}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ABAF1AB-992E-48D8-A6EE-AA116DAF5C4F}
+	EndGlobalSection
+EndGlobal
